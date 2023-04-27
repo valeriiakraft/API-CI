@@ -1,4 +1,4 @@
-chmod +x gradlew
+ run: chmod +x gradlew
 image: Ubuntu  # образ для сборки
 
 stack: jdk 11  # версия JDK
